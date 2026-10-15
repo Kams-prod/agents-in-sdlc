@@ -10,23 +10,23 @@ Elige un taller según lo que quieras aprender y el nivel de profundidad que bus
 
 ## Primeros pasos
 
-Comienza con una experiencia guiada y específica que presenta las capacidades principales de un producto de GitHub Copilot sin requerir un código base existente.
+Comienza con una experiencia guiada y específica que presenta las capacidades principales de un producto de GitHub Copilot sin necesidad de partir de una base de código existente.
 
-### [Recorrido por la aplicación GitHub Copilot][first-steps-app]
+### [Recorrido por la aplicación de GitHub Copilot][first-steps-app]
 
-Crea un cuestionario sobre el espacio desde una carpeta vacía, publícalo en GitHub, implementa una incidencia, completa una revisión de Copilot, programa una automatización y explora un flujo de trabajo con Canvas.
+Crea Space Quiz a partir de una carpeta vacía, publícalo en GitHub, implementa una incidencia, completa una revisión de Copilot, programa una automatización y explora un flujo de trabajo con Canvas.
 
 ### [Primeros pasos con GitHub Copilot CLI][first-steps-cli]
 
-Crea el mismo cuestionario desde la terminal, revisa las diferencias, ejecuta sesiones en paralelo en árboles de trabajo, planifica antes de editar y crea, combina y delega solicitudes de incorporación de cambios sin salir del shell.
+Crea el mismo Space Quiz desde el terminal, revisa las diferencias, ejecuta sesiones en paralelo en árboles de trabajo, planifica antes de editar y crea, combina y delega solicitudes de incorporación de cambios sin salir del shell.
 
 ### [Primeros pasos con Visual Studio Code][first-steps-vscode]
 
-Crea el cuestionario en VS Code, pruébalo en el explorador integrado, publícalo con Control de código fuente, trabaja con incidencias y solicitudes de incorporación de cambios mediante las herramientas de GitHub y delega trabajo a una sesión en la nube.
+Crea Space Quiz en VS Code, pruébalo en el navegador integrado, publícalo con **Source Control**, trabaja con incidencias y solicitudes de incorporación de cambios mediante las herramientas de GitHub y delega trabajo a una sesión en la nube.
 
 ## Desarrollo en escenarios reales
 
-Practica con GitHub Copilot en un ciclo de vida de desarrollo de software realista mediante la aplicación Tailspin Toys y su backlog. Elige el entorno en el que quieras trabajar y, a continuación, planifica, desarrolla, prueba, revisa y entrega cambios significativos.
+Practica con GitHub Copilot en un ciclo de vida de desarrollo de software realista mediante la aplicación Tailspin Toys y su backlog. Elige el entorno en el que quieras trabajar y, a continuación, planifica, desarrolla, prueba, revisa y entrega cambios propios de un entorno de producción.
 
 ### [Consulta los talleres de desarrollo en escenarios reales][real-world-development]
 
@@ -40,4 +40,4 @@ Elige entre GitHub Copilot CLI, la aplicación GitHub Copilot, el agente de GitH
 [first-steps-app]: first-steps/copilot-app/
 [first-steps-cli]: first-steps/copilot-cli/
 [first-steps-vscode]: first-steps/vscode/
-[real-world-development]: ../real-world-development/
+[real-world-development]: real-world-development/

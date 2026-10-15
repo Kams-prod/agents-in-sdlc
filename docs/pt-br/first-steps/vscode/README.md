@@ -7,7 +7,7 @@ authors:
 lastUpdated: 2026-09-28
 ---
 
-Faça um tour prático pelo GitHub Copilot no Visual Studio Code, pensado para quem está começando. Você criará um Space Quiz colorido a partir de uma pasta vazia e conhecerá o ciclo no editor: criar o projeto em um espaço de trabalho, inspecionar o contexto, testar antes de qualquer gravação no Git, planejar antes de editar e deixar as ferramentas do GitHub cuidar de issues e pull requests sem sair do VS Code.
+Faça um tour prático pelo GitHub Copilot no Visual Studio Code, pensado para quem está começando. Você criará um Space Quiz colorido a partir de uma pasta vazia e conhecerá o ciclo no editor: criar o projeto em um espaço de trabalho, inspecionar o contexto, testar antes de qualquer gravação no Git, planejar antes de editar e, sem sair do VS Code, usar as ferramentas do GitHub para lidar com issues e pull requests e passar o trabalho para uma sessão na nuvem.
 
 O workshop leva aproximadamente de 60 a 90 minutos. O projeto usa um único arquivo HTML, sem dependências de tempo de execução, para que você possa se concentrar em conhecer o Copilot no editor.
 
